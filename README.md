@@ -1,10 +1,9 @@
 # polls
 
-This website I created while learninig Django from the official docs of Django.  
+This website I created while learning Django from the official docs of Django.  
 Reference: https://docs.djangoproject.com/en/1.11/intro/  
 
-It contains basic functionality like creating polls and their corresponding choices, and people will vote for the choices given
-with the poll.
+It contains basic functionality like creating polls and their corresponding choices, and people will vote for the choices given with the poll.
 
 ### To clone this project type: 
 ```
